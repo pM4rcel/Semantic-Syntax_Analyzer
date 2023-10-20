@@ -1,0 +1,41 @@
+
+
+
+int a;
+
+functions:
+int testFunction(int x, float z) {
+}
+
+int testFunction(int x, int z) {
+
+}
+
+int test(int param1, int param2, float f) {
+ 
+}
+
+classes:
+class Person{
+  string name;
+  string address;
+  int age;
+
+methods:
+  bool isAdult(){
+    if(age >= 18){
+      true;
+    }else{
+      false;
+    }
+  }
+};
+
+class C2 {
+};
+
+
+int main (){
+  
+}
+

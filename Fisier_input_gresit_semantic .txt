@@ -1,0 +1,53 @@
+int x = 23;
+
+int x1;
+int x1;
+
+
+int x2;
+float f1 = 50.0;
+string s = “ana”’;
+
+functions:
+
+int testFunction(int x, float z) {
+   
+}
+
+int testFunction(int x, float z) {
+  
+}
+
+int testFunction(float x, float z) {
+  
+}
+
+int test(int param) {
+	int inparam;
+}
+
+int min(int a, int b) {
+	int inparam;
+	int in1;
+	int in1;
+}
+
+clases:
+
+int main () {
+    x3 = x + 2;  
+
+	float f1;
+
+	f1 = x + x2;  
+	f1 = test (5) + x;
+
+	x = test(5) + func_nedef; 
+	x = s + f1; 
+    test(x);  
+	test(5,f1,s);
+	test(5+f1);
+}
+
+
+

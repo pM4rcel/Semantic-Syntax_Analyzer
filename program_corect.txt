@@ -1,0 +1,66 @@
+int x = 100 % 4 + 32;
+const float a = 190.0, debt = 3.217243461e9;
+const string myName = "Joe";
+int myGrades[10];
+
+functions:
+
+classes:
+class Person{
+    string name;
+    int age;
+
+methods:
+    const string getName(){
+        
+    }
+
+    bool isAdult(){
+        int age = 12;
+        if(age >= 18){
+            return true;
+        }else{
+            return false;
+        }
+    }
+};
+
+class Job{
+    const string description;
+    
+}
+
+int main(){
+
+
+    const float avg__ = (10.0 + 9.5 + 6.0) / 3.0;
+    bool myCond = (! 10 > 100 ) /\ false;
+    float av[10];
+
+
+
+    if(true /\ myCond \/ avg__ < 10.0 /\ x != 1){
+        int varInDiferentScope = 19000;
+    }else{
+        int varInDiferentScope = 19430;
+        if(x < 5 + x \/ (x > 2 /\  x < 4+x) \/ x == 2){
+            while(true){
+                int he;
+            }
+        }
+    }
+    int i;
+    for(i=10; true; 1){
+        string cdc = "Masini Turring";
+    }
+    const string concateHugeString = "My name is " ++ myName ++ "!";
+
+
+    eval:concateHugeString:
+    eval:avg__:
+    eval:avg__ + 1.0:
+    eval:myCond:
+    bool myBool = false;
+    eval:3.243213e6 + 10.0:
+}
+

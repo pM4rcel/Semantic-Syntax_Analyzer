@@ -1,0 +1,83 @@
+int abc;
+int x = 23;
+const int bbb;
+float bic = 6.55;
+int a[93], rt;
+string s = "ana";
+const char lit = 'k';
+char yyy = 'y';
+
+float aaa;
+float aaa;
+
+int x;
+int x;
+
+functions:
+
+int testFunction(int x, float z) {
+
+}
+
+int testFunction(int x, float z) {
+
+}
+int testFunction(float x, float z) {
+
+}
+
+int test(int param) {
+    return 33;
+}
+
+int test2(int param) {
+    return false;
+}
+
+int min(int a, int b) {
+    int inparam;
+    int in1;
+    int in1;
+    return 1;
+}
+
+clases:
+
+class Person{
+  string name;
+  string address;
+  int age;
+
+methods:
+
+  bool isAdult(){
+    if(age >= 18){
+      age = 25;
+    }
+  }
+};
+
+
+int main(){
+    abc = 25;
+    var_nedecl = 900;
+    int intr;
+    float real = 50.2;
+    intr = 4 + real;
+    real = test(intr);
+    fct(4, real, intr);
+    test(param);
+    test(real);
+    test(23, intr);
+    TypeOf:real:
+    TypeOf:intr:
+    TypeOf:real + intr:
+    TypeOf
+    intr = 3;
+    Eval:3 + intr * 10:
+    Eval:x + 47:
+    bool bol_var = true
+    Eval:true / false /\ bol_var:
+    Eval:true / false /\ bol_var / 56.3:
+
+}
